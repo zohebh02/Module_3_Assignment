@@ -7,7 +7,7 @@ body{
   border: 2px solid #000 !important;
 }
 #header-nav{
-  background-color:#f50a93;  
+  background-color:#f174bd;  
   border:2px solid #000; 
   border-radius: 0;
 }
@@ -19,7 +19,7 @@ body{
   margin:0 -15px !important;
 }
 .navbar-brand h1{
-  color: rgb(238, 14, 14);
+  color: rgb(17, 17, 17);
   font-size: 1.5em;
   font-weight: bold;
   margin-top: 0;
@@ -63,7 +63,7 @@ body{
 }
 .menu-item{
   margin-bottom: 20px;
-  background:#999999;  
+  background:#fcec64;  
   padding: 10px;
 }
 .menu-item h4 {
